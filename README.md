@@ -1,16 +1,16 @@
-# pokedex
+# Pokedex App
 
-A new Flutter project.
+Pokedex App using Dart
 
-## Getting Started
+## Documentation
+![PokeList](images/PokeList.png "PokeList")
+![PokeDetail](images/PokeDetail.png "PokeDetail")
+![PokeSearch](images/PokeSearch.png "PokeSearch")
 
-This project is a starting point for a Flutter application.
+## Installation
 
-A few resources to get you started if this is your first Flutter project:
+- Add [Flutter](https://flutter.dev/docs/get-started/install) to your machine
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Open this project folder with Terminal/CMD and run `flutter packages get`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Run `flutter run` to build and run the debug app on your emulator/phone
