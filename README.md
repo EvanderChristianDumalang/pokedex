@@ -12,14 +12,13 @@ Pokedex App using PokeApi
 
 * [![Dart][Dart.dev]][Dart-url]
 * [![Flutter][Flutter.dev]][Flutter-url]
-* [![Firebase][Firebase.google.com]][Firebase-url]
 
-[Dart.dev]: https://img.shields.io/badge/Dart-0769AD?style=for-the-badge&logo=dart&logoColor=white
+
+[Dart.dev]: https://img.shields.io/badge/Dart-00FFFF?style=for-the-badge&logo=dart&logoColor=white
 [Dart-url]: https://dart.dev/
-[Flutter.dev]: https://img.shields.io/badge/Flutter-0769AD?style=for-the-badge&logo=flutter&logoColor=white
+[Flutter.dev]: https://img.shields.io/badge/Flutter-00FFFF?style=for-the-badge&logo=flutter&logoColor=white
 [Flutter-url]: https://flutter.dev/
-[Firebase.google.com]: https://img.shields.io/badge/Firebase-FFFF31?style=for-the-badge&logo=firebase&logoColor=white
-[Firebase-url]: https://firebase.google.com/
+
 
 ## Documentation
 
