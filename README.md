@@ -14,9 +14,9 @@ Pokedex App using PokeApi
 * [![Flutter][Flutter.dev]][Flutter-url]
 
 
-[Dart.dev]: https://img.shields.io/badge/Dart-00FFFF?style=for-the-badge&logo=dart&logoColor=white
+[Dart.dev]: https://img.shields.io/badge/Dart-FFFFFF?style=for-the-badge&logo=dart&logoColor=cyan
 [Dart-url]: https://dart.dev/
-[Flutter.dev]: https://img.shields.io/badge/Flutter-00FFFF?style=for-the-badge&logo=flutter&logoColor=white
+[Flutter.dev]: https://img.shields.io/badge/Flutter-FFFFFF?style=for-the-badge&logo=flutter&logoColor=cyan
 [Flutter-url]: https://flutter.dev/
 
 
