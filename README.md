@@ -44,4 +44,4 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ## License
 
-All the code available under the MIT + Apache 2.0. licenses. See [LICENSE](LICENSE).
+All the code available under the MIT licenses. See [LICENSE](LICENSE).
